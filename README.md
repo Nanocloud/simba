@@ -18,3 +18,11 @@ However, you are more than welcome to help us writing a clearer documentation or
 We are also currently working on a V2, please use the Github issue tracker to submit and idea.
 
 Finally, even if Simba will remain the same shape, feel free to upgrade the Intel NUC parts !
+
+## Idea of improvement
+
+- More 3D printed parts
+- A unique power switch for all the cluster
+- Embedded power supply
+- More powerful magnet to close doors
+- Wires that fit better in the case
